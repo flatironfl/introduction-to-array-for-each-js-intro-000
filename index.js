@@ -14,4 +14,5 @@ function changeCompletely(element, index, array) {
 var animals = ["bear", "pig", "platypus", "frog"];
 
 doToElementsInArray(animals, changeCompletely);
+
 console.log(animals);
